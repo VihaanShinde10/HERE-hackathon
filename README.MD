@@ -23,7 +23,7 @@ The pipeline includes:
 
 This repository contains three key Jupyter notebooks, each implementing different stages of the pipeline:
 
-### 🔹 Atharva.ipynb
+### 🔹 Roundabout_Detection.ipynb
 > *Full implementation of Algorithm 2 (Image-Based Detection)*  
 This notebook focuses on:
 - Rasterizing road geometries to binary images  
@@ -34,7 +34,7 @@ This notebook focuses on:
 
 ---
 
-### 🔹 gnn.ipynb
+### 🔹 GNN.ipynb
 > *Graph-based Processing (Algorithm 1)*  
 Implements:
 - Conversion of the road network into a graph (nodes and edges)
@@ -44,7 +44,7 @@ Implements:
 
 ---
 
-### 🔹 notebook2990756778.ipynb
+### 🔹 Preprocessing.ipynb
 > *Preprocessing & Algorithm 1 foundation*  
 Handles:
 - Reading the input SHP file (450k points)
